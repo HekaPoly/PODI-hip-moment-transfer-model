@@ -1,0 +1,7 @@
+name: transfer_model
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pip
+prefix: /home/mathi/miniconda3/envs/transfer_model
